@@ -1,0 +1,9 @@
+/venv
+/db.sqlite3
+/app/__pycache__
+/brands/__pycache__
+/categories/__pycache__
+/inflows/__pycache__
+/outflow/__pycache__
+/products/__pycache__
+/suppliers/__pycache__
